@@ -13,6 +13,14 @@
 
 2. MARCO TEORICO
 
+![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/Teorema%20de%20superposicio%CC%81n_page-0001.jpg)
+
+3. DIAGRAMAS
+
+Diagrama de circuito a elaborar:
+
+![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/CircuitoLab.png)
+
 Circuito medido tanto Voltaje como Corriente con las 2 fuentes conectadas V1,V2
 
 ![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/CircuitoCompleto.png)
@@ -24,12 +32,6 @@ Circuito medido tanto Voltaje como Corriente con la fuente V1 y cortocircuito co
 Circuito medido tanto Voltaje como Corriente con la fuente V2 y cortocircuito con la fuente V1
 
 ![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/CortoCircuito12V.png)
-
-3. DIAGRAMAS
-
-Diagrama de circuito a elaborar:
-
-![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/CircuitoLab.png)
 
 4. LISTA DE COMPONENTES
 
@@ -76,7 +78,5 @@ PREGUNTAS:
 7.2 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corrienteIX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 7.3 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
-
-
 
 8. BIBLIOGRAFIA
