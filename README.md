@@ -1,4 +1,4 @@
-# Laboratorio-3
+# Laboratorio 3
 # Teorema De Superposición
 1. OBJETIVOS
 
@@ -74,9 +74,10 @@ PREGUNTAS:
 
 7.1 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-
 7.2 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corrienteIX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 7.3 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+7.4 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
 
 8. BIBLIOGRAFIA
