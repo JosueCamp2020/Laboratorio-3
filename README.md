@@ -69,6 +69,10 @@ Para la respectiva medición debemos tener en cuenta para la caida de voltaje de
 
 7. CONCLUSIONES
 
+* Se concluye que el teorema de superposición es válido, ya que la tensión entre la corriente de un elemento en un circuito lineal es la suma algebraica de las corrientes o tensiones a través de ese elemento debido a que cada fuente independiente actúa sola.
+* Se concluye que los teoremas realizados en el laboratorio serán de gran utilidad en posteriores aplicaciones prácticas.
+* Durante la práctica se adquirio un nuevo concepto que es el teorema de superposición empleado en los circuito eléctricos tanto por sus caracteristicas y aplicaciones.
+
 --------------------------------------------------------------------------
 PREGUNTAS:
 
