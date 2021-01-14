@@ -17,7 +17,7 @@
 
 3. DIAGRAMAS
 
-Diagrama de circuito a elavorar:
+Diagrama de circuito a elaborar:
 
 ![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/CircuitoLab.png)
 
