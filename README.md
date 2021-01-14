@@ -13,7 +13,7 @@
 
 2. MARCO TEORICO
 
-![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/Teorema%20de%20superposicio%CC%81n_page-0001.jpg)
+![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/Teorema%20de%20superposicio%CC%81n.jpg)
 
 3. DIAGRAMAS
 
