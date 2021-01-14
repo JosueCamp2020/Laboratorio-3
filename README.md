@@ -13,7 +13,17 @@
 
 2. MARCO TEORICO
 
-![]()
+Circuito medido tanto Voltaje como Corriente con las 2 fuentes conectadas V1,V2
+
+![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/CircuitoCompleto.png)
+
+Circuito medido tanto Voltaje como Corriente con la fuente V1 y cortocircuito con la fuente V2
+
+![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/CortoCircuito20V.png)
+
+Circuito medido tanto Voltaje como Corriente con la fuente V2 y cortocircuito con la fuente V1
+
+![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/CortoCircuito12V.png)
 
 3. DIAGRAMAS
 
@@ -35,6 +45,10 @@ Diagrama de circuito a elaborar:
 
 5. EXPLICACIÓN
 
+La primera fuente que es de 20V sale del polo positivo a la resistencia de 1000ohm, la cual se divide en 2 resistencias la una de 2220 ohm la cual regresa al polo negativo, y a la resistencia de 820 ohm, esto mide la caida de voltaje.
+En la resistencia de 470 ohm sale del polo negativo de la segunda fuente, en el polo del 820 ohm y 470 ohm regresa al polo positivo de nuestra segunda fuente.
+Para la respectiva medición debemos tener en cuenta para la caida de voltaje de los 820 ohm en paralelo a nuestro multímetro, y para calcular la corriente que fluye a través de la resistencia de 420ohm tomando en cuenta el multimetro en serie.
+
 6. MANUAL DE USUARIO
 
 ![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/Manual.jpg)
@@ -55,5 +69,14 @@ Diagrama de circuito a elaborar:
 
 --------------------------------------------------------------------------
 PREGUNTAS:
+
+7.1 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+
+7.2 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corrienteIX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+7.3 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+
 
 8. BIBLIOGRAFIA
