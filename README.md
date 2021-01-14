@@ -4,16 +4,16 @@
 
 1.1 OBJETIVOS GENERALES
 
-* Comprobar el teorema de superposición mediante la resolución de un ejercicio y su respectiva simulación en un software de diseño electrónico
+* Comprobar el teorema de superposición mediante la resolución de un ejercicio y su respectiva simulación en un software de diseño electrónico.
 
 1.2 OBJETIVOS ESPECIFICOS
 
-* Resolver un circuito eléctrico mediante el teorema de superposición 
-* Comprobar   los   resultados   obtenidos   teóricamente   mediante   una   simulación   en   un software de diseño electrónico
+* Resolver un circuito eléctrico mediante el teorema de superposición. 
+* Comprobar   los   resultados   obtenidos   teóricamente   mediante   una   simulación   en   un software de diseño electrónico.
 
 2. MARCO TEORICO
 
-![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Ana%CC%81lisis%20de%20mallas-3.jpg)
+![]()
 
 3. DIAGRAMAS
 
@@ -33,7 +33,7 @@
 
 6. MANUAL DE USUARIO
 
-![]()
+![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/Manual.jpg)
 
 1.- Es el espacio de trabajo de TinkerCAD. Es de color naranja para saber que contiene nuestro espacio de trabajo, el cuadrado grande es la superficie de trabajo y el pequeño son las opciones de dicha superficie: tamaño total, tamaño de la rejilla y unidades de medición.
 
