@@ -78,22 +78,34 @@ PREGUNTAS y CALCULOS:
 
 7.1 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+* Para el punto se realiza la coneccion en Tinkercad y la forma de conectar los multimetros vendrian a ser de forma Paralela y Serie, arrojando los valores de 952 mV para el voltaje, para la corriente arroja el valor de 25.5 mA, siendo los valores anotados en la tabla 4.1 y 4.2.
+
 7.2 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corrienteIX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+* Al monento de realizar los calculos con la fuente de voltaje de 12 V a cero es decir producir un cortocircuito, el multimetro vendria conectandose en forma paralela y  muestra que la caida de voltaje es de 7.48 V y con respecto al flujo de corriente en este caso no existiria.
 
 7.3 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-7.4 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
+* Al monento de realizar los calculos con la fuente de voltaje de 20 V a cero es decir producir un cortocircuito, el multimetro vendria conectandose en forma serial y muestra que la caida de voltaje es de -6.53 V y con respecto al flujo de corriente es de 25.5 mA
 
 Tabla 4.1:
 
-![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/Tabla%204.1.png)
+![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/Tabla 4.1.png)
 
 Tabla 4.2:
 
-![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/Tabla%204.2.png)
+![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/Tabla 4.2.png)
 
 Tabla Error:
 
 ![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/ERROR.png)
 
+7.4 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
+
+* Podemos concluir que existe un margen de error en el primer caso del votaje total de mas de 1% de error el cual es pro el redondeo que realizar la plataforma de Tinkecad
+* El teorema de la superposición a arrojado varios resultados, la mayoria acercandose demasiado al 0% de error, es inevitable poder coincidir los calculos analiticos con los experimentales ya que hay redondeos o falta de sifras significativas por parte de la plataforma de simulación.
+
+
 8. BIBLIOGRAFIA
+
+
