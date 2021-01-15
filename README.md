@@ -86,11 +86,11 @@ PREGUNTAS y CALCULOS:
 
 Tabla 4.1:
 
-![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/Tabla 4.1.png)
+![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/Tabla%204.1.png)
 
 Tabla 4.2:
 
-![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/Tabla 4.2.png)
+![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/Tabla%204.2.png)
 
 Tabla Error:
 
