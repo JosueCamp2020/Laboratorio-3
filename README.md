@@ -74,7 +74,7 @@ Para la respectiva medición debemos tener en cuenta para la caida de voltaje de
 * Durante la práctica se adquirio un nuevo concepto que es el teorema de superposición empleado en los circuito eléctricos tanto por sus caracteristicas y aplicaciones.
 
 --------------------------------------------------------------------------
-PREGUNTAS:
+PREGUNTAS y CALCULOS:
 
 7.1 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
@@ -83,5 +83,17 @@ PREGUNTAS:
 7.3 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 7.4 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
+
+Tabla 4.1:
+
+![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/Tabla 4.1.png)
+
+Tabla 4.2:
+
+![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/Tabla 4.2.png)
+
+Tabla Error:
+
+![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/ERROR.png)
 
 8. BIBLIOGRAFIA
