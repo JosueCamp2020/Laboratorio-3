@@ -111,5 +111,7 @@ Tabla Error:
 8. BIBLIOGRAFIA
 
 *carakenio73 . (08 de noviembre de 2019 ). dademuch.com. Obtenido de https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
+
 *Electrónica Unicrom . (2015). UNICROM.COM. Obtenido de https://unicrom.com/teorema-de-superposicion/
+
 *Xnomind. (18 de enero de 2020). teorema.top. Obtenido de https://www.teorema.top/teorema-de-superposicion/
