@@ -104,7 +104,9 @@ Tabla Error:
 
 * Podemos concluir que existe un margen de error en el primer caso del votaje total de mas de 1% de error el cual es pro el redondeo que realizar la plataforma de Tinkecad
 * El teorema de la superposición a arrojado varios resultados, la mayoria acercandose demasiado al 0% de error, es inevitable poder coincidir los calculos analiticos con los experimentales ya que hay redondeos o falta de sifras significativas por parte de la plataforma de simulación.
-
+* Con respecto al cumplimiento del teorema de superposicion se demuestra en los calculos que si cumple por que:
+-Usando los dos suministros de energia tanto de 20 V y 12 V el valor arrojado de corriente es de es de 25.5 mA, al momento de realizar los cortocircuitos arroja los valores de 0 mA y 25.5 mA, si se suma los dos valores nos debe arrojar es el valor usado con las dos fuentes DC en este caso si cumple el Teorema de Superposición.
+-Usando los dos suministros de energia tanto de 20 V y 12 V el valor arrojado de voltaje es de 0.952 V, al momento de realizar los cortocircuitos arroja los valores de -6.53 V y 7.48 V, si se suma los dos valores nos debe arrojar es el valor usado con las dos fuentes DC en este caso si cumple el Teorema de Superposición.
 
 8. BIBLIOGRAFIA
 
